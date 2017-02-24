@@ -1,0 +1,19 @@
+start,end,Capacity,Length (ft),Speed (ft/min),Free Flow Travel Time (min),Free Flow Speed (mph)
+a,b,0,0,0,3,0
+a,c,0,0,0,8,0
+a,d,0,0,0,5,0
+b,c,0,0,0,5,0
+b,f,0,0,0,7,0
+c,d,0,0,0,2,0
+c,e,0,0,0,8,0
+c,f,0,0,0,5,0
+d,g,0,0,0,4,0
+e,f,0,0,0,5,0
+e,g,0,0,0,6,0
+e,h,0,0,0,1,0
+e,i,0,0,0,1,0
+f,e,0,0,0,5,0
+f,h,0,0,0,6,0
+g,i,0,0,0,4,0
+h,j,0,0,0,2,0
+i,j,0,0,0,6,0
