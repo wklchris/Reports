@@ -1,4 +1,4 @@
-begin,end,type
+start,end,type
 1,2,black
 2,3,black
 3,4,black
@@ -27,3 +27,11 @@ begin,end,type
 10,11,red
 11,12,red
 12,13,red
+101,1,cyan
+102,11,cyan
+103,14,cyan
+104,6,cyan
+9,201,cyan
+12,202,cyan
+4,203,cyan
+7,204,cyan
