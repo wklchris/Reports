@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 .vscode
+
+# pics
+/pics/*.png
+!/pics/FrankWolfe-network.png
